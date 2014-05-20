@@ -1,6 +1,6 @@
 Interim-Test
 ============
 
-Testing my first zgit.
+Testing my first git.
 
 Davis Kahler
